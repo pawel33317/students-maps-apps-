@@ -1,0 +1,92 @@
+body {
+    background-image: url("../bg.jpg");
+    height: 100%;
+}
+
+p {
+    width: 100%;
+}
+.well {
+    background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+	text-align:center;
+
+}
+.img-thumbnail {
+    border: 0px;
+    margin-top: 5%;
+}
+#text1 {
+    color: black;
+	font-size: 25 px;
+    text-shadow: 1px 1px gray;
+	text-align: center;
+    font-weight: bold;
+	font-family: 'Lucida Sans Unicode';
+}
+
+#text3 {
+    color: black;
+    text-shadow: 1px 1px gray;
+	text-align: center;
+	font-family: 'Lucida Sans Unicode';
+}
+#text2 {
+    color:lightgray;
+    text-shadow: 1px 1px darkgray;
+    margin-top: 15%;
+}
+#buttonSearch{
+    margin-top: 2%;
+	width: 100%;
+	color: black;
+	background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+	text-align:center;
+}
+
+
+
+li{
+    width: 18%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover, 
+.nav-tabs > li.active > a:focus {
+    background-color: #BCCBF5;
+}
+
+#navTabs {
+	margin-top:5%;
+    text-align: center;
+    font-size: xx-large;
+	border-color: #BCCBF5;
+    border-width: 2px;
+}
+
+#tabContent {
+	width: 100%;
+	margin: 2px;
+}
+#gmapCancel{
+	width: 100%;
+	color: black;
+	background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+	text-align:center;
+}
+
+#myposition{	
+	background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+    text-align:end;
+	margin-left: 5%;
+}
+

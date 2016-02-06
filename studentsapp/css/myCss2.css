@@ -1,0 +1,64 @@
+body {
+    background-image: url("../bg.jpg");
+    height: 100%;
+}
+
+.panel {
+   
+    background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+    text-align:end;
+}
+.well {
+    background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+}
+
+#buttonGPSAll{
+    margin: 5%;
+    margin-top: 50px;
+    background-color: #012B75;
+    border-color: #012B75;
+    border-width: 2px;
+}
+
+.list-group{
+       margin-left: 5%;
+}
+#nazwa, #buttonGPS{
+display: inline;
+}
+
+#buttonGPS{
+
+	margin-left: 20px;
+    background-color: #012B75;
+    border-color: #012B75;
+    border-width: 2px;	
+	float: right;
+}
+
+p {
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+#rating{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+#buttonSort{
+    background-color: #012B75;
+    border-color: #012B75;
+    border-width: 2px;
+}
+
+#rozwin{
+    text-align:end;
+    background-color: #DAE1F5;
+    border-color: #BCCBF5;
+    border-width: 2px;
+}
